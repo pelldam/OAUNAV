@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OAU campus Nav</string>
+    <string name="welcome">Welcome</string>
+    <string name="group">Group four project</string>
+    <string name="student">Student</string>
+    <string name="visitor">Visitor</string>
+    <string name="location">Location</string>
+    <string name="lec_threatre">Lecture Theatre</string>
+    <string name="pop_area">Popular Areas</string>
+    <string name="fac">Faculty/Departments</string>
+    <string name="map_key">AIzaSyDK_LYFGBLB-ruMpT1tpUfJciwNJkrkdbI</string>
+</resources>
